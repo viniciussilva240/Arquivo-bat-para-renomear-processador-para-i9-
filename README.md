@@ -1,0 +1,1 @@
+# Arquivo-bat-para-renomear-processador-para-i9-
