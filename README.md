@@ -1,3 +1,5 @@
+![Intel Core i9 14th Gen](https://images2.kabum.com.br/produtos/fotos/sync_mirakl/524592/xlarge/Processador-Intel-Core-I9-14900-5-80ghz-Max-Turbo-24-core-32-threads-LGA1700_1786129116.jpg)
+
 # Alterar Nome do Processador (Visual)
 
 Este script automatiza a alteração visual do nome do processador no Windows, modificando as chaves correspondentes no Registro do Sistema (Regedit). Ele foi configurado para mascarar o processador original como um **i9 de 14ª Geração**.
